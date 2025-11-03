@@ -118,7 +118,7 @@ A scatter plot was used to visualize the **risk-return trade-off**.
 ## 💡 Key Insights Summary
 
 | Stock | Mean Close | Volatility | % Change | Risk | Return | Observation |
-|--------|-------------|-------------|-----------|--------|---------|
+|--------|-------------|-------------|-----------|--------|---------|--------------|
 | **AAPL** | 158.24 | Moderate | +12.23% | Low | Positive | Stable and consistent |
 | **GOOG** | 100.63 | Low | -1.69% | Moderate | Negative | Mild decline, low volatility |
 | **MSFT** | 275.04 | High | +16.10% | Moderate | Highest | Strong performer |
